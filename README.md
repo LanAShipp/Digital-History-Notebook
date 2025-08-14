@@ -140,3 +140,15 @@ Classroom:
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+
+### Timeline of the Internet
+
+ - 1. 1848 Ada lovelace creates a basic concept of programming for what future early computers use
+ - 2. 1890 Herman Hollerith designs a punch-card system to help calculate the 1890 U.S. Census. which saves the government a lot of money which makes funding for computer science even larger.
+ - 3. 1936 Alan Turing creates the turing machine and makes the theory that anything that can be computable can be computable by computers![ueuBpt3Xfk96wy2xVEwXoQ-970-80](https://github.com/user-attachments/assets/073495da-6566-4b56-b4ca-539633185ee1)
+ - 4. 1941 Atanasoff and his graduate student, Clifford Berry, design the first digital electronic computer in the U.S., called the Atanasoff-Berry Computer (ABC). This marks the first time a computer is able to store information on its main memory,
+      and is capable of performing one operation every 15 seconds, according to the book "Birthing the Computer" ![2Hjzmh4vVRAHaGCEoBaAE-970-80](https://github.com/user-attachments/assets/6cc4"365a-4647-4c73-8cdb-37b7c541f23c)
+ - 5. 1945 the creation of the first general-purpose all electric decimal, digital computer.
+ - 6. 1968 the creation of the GUI 
+ - 7. 1981: "Acorn," IBM's first personal computer, is released onto the market at a price point of $1,565, according to IBM. ![z93VFz9nKcVyCRYRoKKqUB-970-80](https://github.com/user-attachments/assets/435cdc80-8a0e-4047-8a7d-4ccd3d0a0c31)
