@@ -49,7 +49,7 @@ Use git pull to retrieve the timeline you created from your remote repository.
 
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer: git pull
+Answer: **git pull**
 
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
@@ -67,10 +67,10 @@ Use git push to publish your changes.
 
 Report Status:
 4.1: What command did you use to save your changes to your local notebook?
-Answer: git pull
+Answer: **git pull**
 
 4.2: What command did you use to publish your changes to the remote repository?
-Answer: git push
+Answer: **git push**
 
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
@@ -85,10 +85,10 @@ Finally, use git pull to get your peer's feedback.
 
 Report Status:
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer: **Modified: README.md**
 
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer: **git pull**
 
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
