@@ -9,7 +9,7 @@ Instructions: Create a new public repository on GitHub. Name it exactly: Digital
 Add a README.md file when you create the repository.
 After creating the repository, clone it to your local computer. Open the README.md file in a text editor and copy and paste this entire assignment briefing into it.
 Once the content is in the file, you will need to push it back to GitHub.
-Report Status (These questions need to be answered for part of your grade):
+Report Status (These questions need to be answered for part of your grade): Done
 
 1.1: What command did you use to bring the repository to your local machine?
 Answer: **git clone**
@@ -29,7 +29,7 @@ Use git add . to stage both new files.
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
 
-Report Status:
+Report Status: done
 2.1: What two file names did you create?
 Answer: **ada-lovelace.md**
 
@@ -47,7 +47,7 @@ Commit this change directly on GitHub with the message: "Added internet timeline
 Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 
-Report Status:
+Report Status: done
 3.1: What command did you use to retrieve the new information from GitHub?
 Answer: **git pull**
 
@@ -65,7 +65,7 @@ Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
 
-Report Status:
+Report Status: done
 4.1: What command did you use to save your changes to your local notebook?
 Answer: **git pull**
 
@@ -83,7 +83,7 @@ Return to your local machine's terminal.
 Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 
-Report Status:
+Report Status: done
 5.1: What did git status tell you after you ran git fetch?
 Answer: **Modified: README.md**
 
@@ -96,15 +96,16 @@ With the internet's timeline now in your notebook, let's document one of its key
 Instructions: On your local machine, create a new file named tim-berners-lee.md.
 In this file, research and write a short paragraph about his role in creating the World Wide Web.
 In this README.md file, add a hyperlink to this new file. The link should be named "Tim Berners-Lee".
+https://github.com/LanAShipp/Digital-History-Notebook/blob/19b44060091d5e74e13e9662d6d0600e52a69921/Tim-Berners-Lee.md
 Use git add . to stage the new file and the updated README.md.
 Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
-Report Status:
+Report Status: done
 6.1: What was your commit message for this assignment?
-Answer:
+Answer: **Added Tim Berners-lee**
 
 6.2: What command did you use to publish your work?
-Answer:
+Answer: git push
 
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
@@ -116,9 +117,9 @@ In this new section, write one or two sentences reflecting on the project.
 Commit this change directly on GitHub with the message: "Final thoughts on project".
 Return to your local machine's terminal and use git pull to get your concluding thoughts.
 
-Report Status:
+Report Status: done
 7.1: What command did you use to retrieve your final thoughts from GitHub?
-Answer:
+Answer: git pull
 
 High-Level Challenge: The Editing Mistake
 You were working on a file for an extra credit assignment but made a mistake. You committed the error to your local history, but you realize your mistake before pushing. You need to completely erase the commit so there is no record of the error.
@@ -143,6 +144,10 @@ Classroom:
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+
+### Final Thoughts
+I thought this project was extremely time-consuming, though at the very least, it was simple to work on. I quite enjoy working on the project when there is time, trying to get the commits right was impossible for me because I always save my work on GitHub before I go home.
 
 
 ### Timeline of the Internet
