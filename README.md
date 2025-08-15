@@ -59,6 +59,7 @@ Create a second new file named steve-jobs.md. Research and write a short paragra
 In this README.md file, add two new hyperlinks below to the files you just created. The links must be named "Bill Gates" and "Steve Jobs" and must lead to the corresponding files.
 
 https://github.com/LanAShipp/Digital-History-Notebook/blob/eae827bb091ce6f9a40197f7dce60ece6eb4ff71/Bill-Gates.md
+https://github.com/LanAShipp/Digital-History-Notebook/blob/513238655955859cb45c0566f3cd5073fa8b7192/Steve-Jobs.md
 
 Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
